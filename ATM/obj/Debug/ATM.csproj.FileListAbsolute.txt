@@ -1,0 +1,8 @@
+C:\Users\ivoni\source\repos\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\ivoni\source\repos\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\ivoni\source\repos\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\ivoni\source\repos\ATM\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+C:\Users\ivoni\source\repos\ATM\ATM\obj\Debug\ATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivoni\source\repos\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\ivoni\source\repos\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\ivoni\source\repos\ATM\ATM\obj\Debug\ATM.pdb
